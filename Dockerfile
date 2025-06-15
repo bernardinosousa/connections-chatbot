@@ -1,15 +1,15 @@
 # Use the official latest Python image from Docker Hub
 FROM python:latest
 
-# Set work directory
+# Set working directory
 WORKDIR /app
 
-# Optional: Copy requirements.txt and install dependencies
+# Install dependencies
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy your application code
+# Copy the rest of the application code
 COPY . .
 
-# Default command (can be overridden by docker-compose)
-CMD ["python"]
+# Run your app
+CMD ["python", "index.py"]

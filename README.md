@@ -62,7 +62,7 @@ Access the app at [http://localhost:7860](http://localhost:7860)
 
 ---
 
-## 🧪 Quick Test
+## Quick Test
 
 When prompted:
 
@@ -73,7 +73,7 @@ When prompted:
 
 ---
 
-## 📄 License
+## License
 
 MIT License – free to use, modify, and share.
 

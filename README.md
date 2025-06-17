@@ -79,6 +79,6 @@ MIT License – free to use, modify, and share.
 
 ---
 
-## 🙋‍♂️ Contributing
+## Contributing
 
 Suggestions and PRs are welcome! Let’s make meaningful conversations happen.
